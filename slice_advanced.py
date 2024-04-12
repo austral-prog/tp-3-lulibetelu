@@ -1,4 +1,3 @@
 def slice_advanced():
-    texto=input()
-    print(texto.lower()[4: :2])
-slice_advanced()
+   name= input()
+   print(name[4::2])
